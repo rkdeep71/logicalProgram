@@ -14,5 +14,7 @@ public class FactorialNumber {
 
 		}
 		System.out.println("Factorial of " + number + " is " + fact);
+		
+		System.out.println("Rahul kumar");
 	}
 }
